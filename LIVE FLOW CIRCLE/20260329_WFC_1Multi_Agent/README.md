@@ -1,4 +1,4 @@
-# n8n Multi-Agent Workflow — SEA vs Western Market Research
+# N8N Multi-Agent Workflow — SEA vs Western Market Research
 
 **Data Science Masterminds**
 Trigger a chat message. Get a dual-market intelligence report in seconds.
